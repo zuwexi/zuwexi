@@ -24,7 +24,7 @@ Somos um estúdio digital focado na criação de soluções web performáticas, 
 
 ### 🌐 Encontre a Zuwexi online
 
-- Portfólio (em breve) — [zuwexi.com](https://zuwexi.com.br)
+- Portfólio (em breve) — [zuwexi.com.br](https://zuwexi.com.br)
 
 ---
 
