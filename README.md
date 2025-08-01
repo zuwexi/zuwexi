@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/zuwexi/zuwexi/blob/main/logo-zuwexi.png" width="120" alt="Zuwexi Logo" />
+</p>
+
 <h1 align="center">🚀 Zuwexi Webworks</h1>
 <p align="center">Redefinindo o desenvolvimento web — uma linha de código por vez.</p>
 
@@ -9,10 +13,10 @@ Somos um estúdio digital focado na criação de soluções web performáticas, 
 
 ### 💡 O que fazemos
 
-- ⚙️ Desenvolvimento web com Vue.js, React e JavaScript moderno
-- 🎨 Integração de UI/UX com código limpo e eficiente
-- 🔥 Sistemas escaláveis com Firebase e tecnologias em nuvem
-- 📱 Interfaces responsivas e acessíveis
+- ⚙️ Desenvolvimento web com Vue.js, React e JavaScript moderno  
+- 🎨 Integração de UI/UX com código limpo e eficiente  
+- 🔥 Sistemas escaláveis com Firebase e tecnologias em nuvem  
+- 📱 Interfaces responsivas e acessíveis  
 
 ### 🛠 Tecnologias que usamos
 
