@@ -37,3 +37,8 @@ Somos um estúdio digital focado na criação de soluções web performáticas, 
 
 > _"Não criamos apenas sites. Criamos experiências digitais."_  
 > — Zuwexi Webworks
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNpbDk0aDE2Y21uMTI2NTR5Y2ZwOXdmOGw0czQ4YTY4d3pzMWJ3diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kXixecGzl2gBlpO4SQ/giphy.gif"  width="180" alt="Dino Google" />
+</p>
